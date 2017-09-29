@@ -1,0 +1,24 @@
+/Users/stuart/Projects/QtQuick4/android/bin/classes.dex : \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/example/QtQuick4/BuildConfig.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/example/QtQuick4/R$array.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/example/QtQuick4/R$attr.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/example/QtQuick4/R$layout.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/example/QtQuick4/R$string.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/example/QtQuick4/R.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$1.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$2.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1$1.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$4.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$5.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$6.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication$InvokeResult.class \
+/Users/stuart/Projects/QtQuick4/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication.class \
